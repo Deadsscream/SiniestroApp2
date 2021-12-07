@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SiniestroApp</string>
+    <string-array name="listaGeneros">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Sin Especificar</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

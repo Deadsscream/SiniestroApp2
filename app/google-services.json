@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114625878913",
+    "firebase_url": "https://siniestroapp-b9925-default-rtdb.firebaseio.com",
+    "project_id": "siniestroapp-b9925",
+    "storage_bucket": "siniestroapp-b9925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114625878913:android:06855feab87cf56c476680",
+        "android_client_info": {
+          "package_name": "com.nicolas.siniestroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114625878913-i1tfp9868kps1g92m9bih7ieqqcsd73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH269E2lkj3-_Ll8kF_jbNEU-1Q2ACKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114625878913-i1tfp9868kps1g92m9bih7ieqqcsd73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
